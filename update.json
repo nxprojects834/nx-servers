@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "ReleaseNotes": "Update Server SG dan US",
+  "Servers": [
+    {
+      "name": "🇸🇬 Singapore Premium",
+      "host": "vip1.priasawit.web.id",
+      "port": 443,
+      "user": "besok",
+      "pass": "senin"
+    },
+    {
+      "name": "🇺🇸 US Premium",
+      "host": "us1.nxvpn.com",
+      "port": 443,
+      "user": "admin",
+      "pass": "admin123"
+    }
+  ]
+}
