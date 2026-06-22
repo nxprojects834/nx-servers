@@ -1,20 +1,78 @@
 {
-  "Version": 1.2,
-  "ReleaseNotes": "Update Server SG dan US",
+  "Version": 1.3,
+  "ReleaseNotes": "Penambahan Server Global Baru (US, CA, DE, FR, NL, UK, SG, IN, AU)",
   "Servers": [
     {
-      "name": "🇸🇬 Singapore Premium",
-      "host": "vip1.priasawit.web.id",
+      "name": "🇺🇸 United States",
+      "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
-      "user": "besok",
-      "pass": "senin"
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
     },
     {
-      "name": "🇺🇸 US Premium",
-      "host": "us1.nxvpn.com",
+      "name": "🇨🇦 Canada",
+      "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
-      "user": "admin",
-      "pass": "admin123"
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇩🇪 Germany",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇫🇷 France",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇳🇱 Netherland",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇬🇧 United Kingdom",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇸🇬 Singapore",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇮🇳 India",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
+    },
+    {
+      "name": "🇦🇺 Australia",
+      "host": "ssh-servers.minapronetvpn.com",
+      "port": 443,
+      "user": "minapronet",
+      "pass": "",
+      "pubkey": "-----CFHJO PQFOTTI QSJWBUF LFZ-----\nc4CmcoOabD2sAYluekFBBBBBCH6wcnVBBBBFcn0vARBBBBBBBBBCBBBBsBBBBCOmZ3SaZT\n2abHFzMX6qd4SxOUJyBBBBDH6qd4SxOUJyBBBBiRRCmALCEuIBrHncbgvtflcoo6LYsXbj\nT+qtsFR254aVgKwIKfJ+IPoe/W5muTa7qKOJQd3eETJFxFosHE+rG/EvvyVClGdZhB7KXo\nh85p57yB01lccy+KLhmqeHbkwLPX+a88NJAf03fKZfJbJZstuN0IOujaM/EgYZPImNvRHU\nOaD9yUZBBBFRweYhSM4W5FRBBBBUAXOld3Fud3iiNj2vbYO1dEVzNRBBBBivbYO1dEVzNR\nBBBJVFBAXThR8SxLiqn3o8sIqH66+Tm72nplwrcLyFOfO92IzcyzYjQiaq4g2fKcVt+rTU\nTE4OoR1jCNCK7yh/rigx8stWBACYHJBPjWq5P+LPPtRQeKH39gjTpKbYSnp8zkmwt++aDH\nYweojXIjHjHL8MUQSacZtz/x423Ei6UMlCladxwNV3BBBBRhEwDvMzE5HZgoI63iLyedm2\n8IzxVETfQEinbFs0/unGBi/9IitAg7/B13FkQHvrNbkKEBANoKisLlvTPQO75LEQQRBBBC\nGubX6idIKwcnW1RHOtbXWveBF=\n-----FOE PQFOTTI QSJWBUF LFZ-----"
     }
   ]
 }
