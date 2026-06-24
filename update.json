@@ -7,70 +7,70 @@
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇮🇩 Indonesia",
       "host": "rumahweb.idgarsellz.cloud",
       "port": 443,
       "user": "tester",
-      "pass": "365",
+      "pass": "365"
     },
     {
       "name": "🇨🇦 Canada",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇩🇪 Germany",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇫🇷 France",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇳🇱 Netherland",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇬🇧 United Kingdom",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇸🇬 Singapore",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇮🇳 India",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     },
     {
       "name": "🇦🇺 Australia",
       "host": "ssh-servers.minapronetvpn.com",
       "port": 443,
       "user": "minapronet",
-      "pass": "minapronet",
+      "pass": "minapronet"
     }
   ]
 }
