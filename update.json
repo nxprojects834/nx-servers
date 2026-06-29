@@ -1,34 +1,13 @@
 {
   "Version": 1.6,
-  "ReleaseNotes": "Update free servers",
+  "ReleaseNotes": "",
   "Servers": [
     {
-      "name": "🇺🇸 United States",
-      "host": "us2.ws-tun.xyz",
+      "name": "Sorry, no avaible servers yet:)",
+      "host": "nothing",
       "port": 443,
-      "user": "sshstores-nxprojectsfree",
+      "user": "nothinng",
       "pass": "123"
-    },
-    {
-      "name": "🇸🇬 Singapore",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇮🇳 India",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇦🇺 Australia",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
     }
   ]
 }
