@@ -1,55 +1,13 @@
 {
-  "Version": 1.5,
-  "ReleaseNotes": "Add servers indonesia",
+  "Version": 1.6,
+  "ReleaseNotes": "Update free servers",
   "Servers": [
     {
       "name": "🇺🇸 United States",
-      "host": "ssh-servers.minapronetvpn.com",
+      "host": "us2.ws-tun.xyz",
       "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇮🇩 Indonesia",
-      "host": "rumahweb.idgarsellz.cloud",
-      "port": 443,
-      "user": "tester",
-      "pass": "365"
-    },
-    {
-      "name": "🇨🇦 Canada",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇩🇪 Germany",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇫🇷 France",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇳🇱 Netherland",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
-    },
-    {
-      "name": "🇬🇧 United Kingdom",
-      "host": "ssh-servers.minapronetvpn.com",
-      "port": 443,
-      "user": "minapronet",
-      "pass": "minapronet"
+      "user": "sshstores-nxprojectsfree",
+      "pass": "123"
     },
     {
       "name": "🇸🇬 Singapore",
