@@ -1,13 +1,13 @@
 {
-  "Version": 1.7,
-  "ReleaseNotes": "404",
+  "Version": 1.8,
+  "ReleaseNotes": "By @David",
   "Servers": [
     {
-      "name": "Sorry, no avaible servers yet:)",
-      "host": "nothing",
+      "name": "🇮🇩 Indonesia",
+      "host": "id-tecno.suneku.web.id",
       "port": 443,
-      "user": "nothinng",
-      "pass": "123"
+      "user": "sunek",
+      "pass": "vvip"
     }
   ]
 }
