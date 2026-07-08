@@ -1,13 +1,34 @@
 {
   "Version": 1.1,
-  "ReleaseNotes": "Nothing",
+  "ReleaseNotes": "by nxprojects",
   "Servers": [
     {
-      "name": "No servers are available:)",
-      "host": "nxprojects.com",
+      "name": "🇮🇩 Indonesja",
+      "host": "id-atlas.suneku.web.id",
       "port": 443,
-      "user": "nxprojects",
-      "pass": "vvip"
+      "user": "sunekz",
+      "pass": "gwss"
+    },
+    {
+      "name": "🇨🇳 China",
+      "host": "cn.nxprojects.me",
+      "port": 443,
+      "user": "mdmd",
+      "pass": "jsns"
+    },
+    {
+      "name": "🇩🇪 Germany",
+      "host": "gn.nxprojects.me",
+      "port": 443,
+      "user": "hs",
+      "pass": "s"
+    },
+    {
+      "name": "🇪🇸 Spain",
+      "host": "sp.nxprojects.me",
+      "port": 443,
+      "user": "djd",
+      "pass": "zj"
     }
   ]
 }
