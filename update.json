@@ -3,18 +3,18 @@
   "ReleaseNotes": "by nxprojects",
   "Servers": [
     {
-      "name": "🇮🇩 Indonesja",
+      "name": "🇮🇩 Indonesia",
       "host": "id-atlas.suneku.web.id",
       "port": 443,
       "user": "sunekz",
       "pass": "gwss"
     },
     {
-      "name": "🇨🇳 China",
-      "host": "cn.nxprojects.me",
+      "name": "🇸🇬 Singapore",
+      "host": "deb13.mytun.my.id",
       "port": 443,
-      "user": "mdmd",
-      "pass": "jsns"
+      "user": "sotoayam",
+      "pass": "sotoayam"
     },
     {
       "name": "🇩🇪 Germany",
