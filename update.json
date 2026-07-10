@@ -1,34 +1,20 @@
 {
-  "Version": 1.2,
-  "ReleaseNotes": "by nxprojects",
+  "Version": 1.3,
+  "ReleaseNotes": "Servers by natanvpn",
   "Servers": [
     {
       "name": "🇮🇩 Indonesia",
-      "host": "id-atlas.suneku.web.id",
+      "host": "natanvpn.oncom.web.id",
       "port": 443,
-      "user": "sunekz",
-      "pass": "gwss"
+      "user": "natanvpn",
+      "pass": "natanvpn"
     },
     {
-      "name": "🇸🇬 Singapore",
+      "name": "🇸🇬 Singapore [Expired]",
       "host": "deb13.mytun.my.id",
       "port": 443,
       "user": "sotoayam",
       "pass": "sotoayam"
-    },
-    {
-      "name": "🇩🇪 Germany",
-      "host": "gn.nxprojects.me",
-      "port": 443,
-      "user": "hs",
-      "pass": "s"
-    },
-    {
-      "name": "🇪🇸 Spain",
-      "host": "sp.nxprojects.me",
-      "port": 443,
-      "user": "djd",
-      "pass": "zj"
     }
   ]
 }
