@@ -1,30 +1,23 @@
 {
-  "Version": 1.4,
-  "ReleaseNotes": "Servers by nadiavpn & natanvpn",
+  "Version": 1.5,
+  "ReleaseNotes": "Update free servers",
   "Servers": [
     {
-      "name": "Servers 1",
+      "name": "[🇮🇩] Indonesia",
       "host": "natanvpn.oncom.web.id",
       "port": 443,
       "user": "natanvpn",
-      "pass": "natanvpn"
+      "pass": "123"
     },
     {
-      "name": "Servers 2",
-      "host": "vpn.nadia-lestari.my.id",
+      "name": "[🇸🇬] Singapore",
+      "host": "restaurant.krustykrab.cyou",
       "port": 443,
-      "user": "nadiavpn",
-      "pass": "nadiavpn"
+      "user": "technic",
+      "pass": "dev"
     },
     {
-      "name": "Servers 3 [Cloudfront]",
-      "host": "d2scqq8f6uchg9.cloudfront.net",
-      "port": 443,
-      "user": "nadiavpn",
-      "pass": "nadiavpn"
-    },
-    {
-      "name": "Servers 4 [Expired]",
+      "name": "[×] Nothing",
       "host": "deb13.mytun.my.id",
       "port": 443,
       "user": "sotoayam",
