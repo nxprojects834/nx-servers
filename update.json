@@ -1,16 +1,16 @@
 {
-  "Version": 1.5,
+  "Version": 1.6,
   "ReleaseNotes": "Update free servers",
   "Servers": [
     {
-      "name": "[🇮🇩] Indonesia",
-      "host": "natanvpn.oncom.web.id",
+      "name": "[🇸🇬] Singapore 1",
+      "host": "sgvip.shadowsvpn.xyz",
       "port": 443,
-      "user": "natanvpn",
-      "pass": "123"
+      "user": "Trialssh753",
+      "pass": "orderyuk"
     },
     {
-      "name": "[🇸🇬] Singapore",
+      "name": "[🇸🇬] Singapore 2",
       "host": "restaurant.krustykrab.cyou",
       "port": 443,
       "user": "technic",
