@@ -1,13 +1,13 @@
 {
-  "Version": 1.7,
+  "Version": 1.8,
   "ReleaseNotes": "Update free servers",
   "Servers": [
     {
       "name": "[🇸🇬] Singapore",
-      "host": "sgvip.shadowsvpn.xyz",
+      "host": "beles.vps-mosto.site",
       "port": 443,
-      "user": "Trialssh753",
-      "pass": "orderyuk"
+      "user": "fenergs",
+      "pass": "1"
     }
   ]
 }
