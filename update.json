@@ -1,27 +1,13 @@
 {
-  "Version": 1.6,
+  "Version": 1.7,
   "ReleaseNotes": "Update free servers",
   "Servers": [
     {
-      "name": "[🇸🇬] Singapore 1",
+      "name": "[🇸🇬] Singapore",
       "host": "sgvip.shadowsvpn.xyz",
       "port": 443,
       "user": "Trialssh753",
       "pass": "orderyuk"
-    },
-    {
-      "name": "[🇸🇬] Singapore 2",
-      "host": "restaurant.krustykrab.cyou",
-      "port": 443,
-      "user": "technic",
-      "pass": "dev"
-    },
-    {
-      "name": "[×] Nothing",
-      "host": "deb13.mytun.my.id",
-      "port": 443,
-      "user": "sotoayam",
-      "pass": "sotoayam"
     }
   ]
 }
