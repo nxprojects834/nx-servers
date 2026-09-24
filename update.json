@@ -1,13 +1,27 @@
 {
-  "Version": 1.8,
-  "ReleaseNotes": "Update free servers",
+  "Version": 1.9,
+  "ReleaseNotes": "Update servers",
   "Servers": [
     {
-      "name": "[🇸🇬] Singapore",
+      "name": "[🇸🇬] Servers 1",
+      "host": "sgvip.shadowsvpn.xyz",
+      "port": "443",
+      "user": "admin",
+      "pass": "password123"
+    },
+    {
+      "name": "[🇸🇬] Servers 2",
       "host": "beles.vps-mosto.site",
-      "port": 443,
+      "port": "443",
       "user": "fenergs",
       "pass": "1"
+    },
+    {
+      "name": "Servers 3",
+      "host": "188.x.x.1",
+      "port": "443",
+      "user": "admin",
+      "pass": "password123"
     }
   ]
 }
