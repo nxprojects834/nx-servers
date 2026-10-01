@@ -16,11 +16,11 @@
       "pass": "1"
     },
     {
-      "name": "Servers 3",
-      "host": "188.x.x.1",
+      "name": "[⚡] Servers 3",
+      "host": "deneva.idgarsellz.cloud",
       "port": "443",
-      "user": "admin",
-      "pass": "password123"
+      "user": "idgarsellz",
+      "pass": "v06"
     }
   ]
 }
