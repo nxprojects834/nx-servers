@@ -2,11 +2,11 @@
   "Version": 1.0,
   "Servers": [
     {
-      "name": "[🇸🇬] Servers 1",
-      "host": "sgvip.shadowsvpn.xyz",
+      "name": "[🇮🇩] Servers 1",
+      "host": "deneva.idgarsellz.cloud",
       "port": "443",
-      "user": "admin",
-      "pass": "password123"
+      "user": "idgarsellz",
+      "pass": "v06"
     },
     {
       "name": "[🇸🇬] Servers 2",
