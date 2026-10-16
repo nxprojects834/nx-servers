@@ -2,7 +2,14 @@
   "Version": 1.1,
   "Servers": [
     {
-      "name": "[🇮🇩] Servers 1",
+      "name": "[🇸🇬] Servers 1",
+      "host": "sgvip.shadowsvpn.xyz",
+      "port": "443",
+      "user": "admin",
+      "pass": "password123"
+    },
+    {
+      "name": "[🇮🇩] Servers 2",
       "host": "geratis.nadiavpnku.my.id",
       "port": "443",
       "user": "nasruloh",
