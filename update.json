@@ -1,26 +1,19 @@
 {
-  "Version": 1.0,
+  "Version": 1.1,
   "Servers": [
     {
       "name": "[🇮🇩] Servers 1",
-      "host": "deneva.idgarsellz.cloud",
+      "host": "geratis.nadiavpnku.my.id",
       "port": "443",
-      "user": "idgarsellz",
-      "pass": "v06"
+      "user": "nasruloh",
+      "pass": "nas123"
     },
     {
-      "name": "[🇸🇬] Servers 2",
-      "host": "beles.vps-mosto.site",
+      "name": "[🇮🇩] Servers 2 [CloudFront]",
+      "host": "d318hdausjayqs.cloudfront.net",
       "port": "443",
-      "user": "fenergs",
-      "pass": "1"
-    },
-    {
-      "name": "[⚡] Servers 3",
-      "host": "deneva.idgarsellz.cloud",
-      "port": "443",
-      "user": "idgarsellz",
-      "pass": "v06"
+      "user": "nasruloh",
+      "pass": "nas123"
     }
   ]
 }
