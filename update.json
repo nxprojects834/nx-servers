@@ -1,5 +1,5 @@
 {
-  "Version": 1.2,
+  "Version": 1.3,
   "Servers": [
     {
       "name": "[🇸🇬] Servers 1",
@@ -10,17 +10,17 @@
     },
     {
       "name": "[🇮🇩] Servers 2",
-      "host": "yuechan-vpn.geminichue.my.id",
+      "host": "vpn.nadia-lestari.my.id",
       "port": "443",
-      "user": "free",
-      "pass": "free"
+      "user": "nadiavpn",
+      "pass": "nadiavpn"
     },
     {
-      "name": "[🇮🇩] Servers 3 [CloudFront]",
-      "host": "d318hdausjayqs.cloudfront.net",
+      "name": "[🇮🇩] Servers 3",
+      "host": "hackweb.dpdns.org",
       "port": "443",
-      "user": "nasruloh",
-      "pass": "nas123"
+      "user": "goutt",
+      "pass": "goutt"
     }
   ]
 }
