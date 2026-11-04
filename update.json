@@ -1,5 +1,5 @@
 {
-  "Version": 1.5,
+  "Version": 1.6,
   "Servers": [
     {
       "name": "[🇸🇬] SG 1",
@@ -12,43 +12,43 @@
       "name": "[🇸🇬] SG 2",
       "host": "ssh-sg-1.optnl.com",
       "port": "443",
-      "user": "tnl-otud7xot",
-      "pass": "1HgX6KnNg3hw"
+      "user": "tnl-otuizkp5",
+      "pass": "013zrhnew8ir"
     },
     {
       "name": "[🇩🇪] DE 1",
       "host": "ssh-de-1.optnl.com",
       "port": "443",
-      "user": "tnl-otq8fdvv",
-      "pass": "1HgX6KnNg3hw"
+      "user": "tnl-otuizkp5",
+      "pass": "013zrhnew8ir"
     },
     {
       "name": "[🇩🇪] DE 2",
       "host": "ssh-de-2.optnl.com",
       "port": "443",
-      "user": "tnl-otud7xot",
-      "pass": "1HgX6KnNg3hw"
+      "user": "tnl-otuizkp5",
+      "pass": "013zrhnew8ir"
     },
     {
       "name": "[🇹🇷] TR",
       "host": "ssh-tr-1.optnl.com",
       "port": "443",
-      "user": "tnl-otq8fdvv",
-      "pass": "1HgX6KnNg3hw"
+      "user": "tnl-otuizkp5",
+      "pass": "013zrhnew8ir"
     },
     {
       "name": "[🇺🇲] US 1",
       "host": "ssh-us-1.optnl.com",
       "port": "443",
-      "user": "tnl-otq8fdvv",
-      "pass": "1HgX6KnNg3hw"
+      "user": "tnl-otuizkp5",
+      "pass": "013zrhnew8ir"
     },
     {
       "name": "[🇺🇲] US 2",
       "host": "ssh-us-2.optnl.com",
       "port": "443",
-      "user": "tnl-otq8fdvv",
-      "pass": "1HgX6KnNg3hw"
+      "user": "tnl-otuizkp5",
+      "pass": "013zrhnew8ir"
     },
   ]
 }
